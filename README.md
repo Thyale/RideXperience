@@ -42,6 +42,14 @@ npm run dev
 2. Após o login, você será redirecionado para a página com as informações das 4 motos disponíveis.
 3. Explore os detalhes de cada moto exibida na tela.
 
+## 🌍 Deploy
+
+Você pode acessar a versão publicada do projeto aqui -> https://thyale.github.io/RideXperience/
+
+## ✨ Inspiração
+
+O design da página de login foi inspirado em [Login/Signup Screens](https://dribbble.com/shots/21640904-Login-Signup-Screens?utm_source=Clipboard_Shot&utm_campaign=Vivek-08&utm_content=Login/Signup%20Screens&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Vivek-08&utm_content=Login/Signup%20Screens&utm_medium=Social_Share) no Dribbble.
+
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença `MIT`
